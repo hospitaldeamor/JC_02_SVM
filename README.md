@@ -14,7 +14,7 @@ O objetivo final é avaliar a apicação de SVMs utilizando diferentes tipos de 
 
 - **Conjunto de Dados 1**: [Câncer de Mama Wisconsin (Diagnóstico)](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 - **Conjunto de Dados 2**: [UCI Machine Learning Repository](https://github.com/pranavtumkur/Predicting-Cancer-using-Support-Vector-Machines/tree/master)
-- **Conjunto de Dados 3**: [Brain MRI Images for Brain Tumor Detection)](https://www.kaggle.com/code/brendonim/brain-mri-tumor-detection-using-svm/input)
+- **Conjunto de Dados 3**: [Brain MRI Images for Brain Tumor Detection)](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection)
 ---
 ## 🛠️ Código e Recursos Utilizados
 
